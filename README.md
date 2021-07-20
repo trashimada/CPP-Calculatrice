@@ -1,2 +1,3 @@
 # CPP-Calculator
-[⭐] by trashimada [⭐]
+Simple calculatrice en c++.
+
